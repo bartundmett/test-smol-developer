@@ -1,0 +1,24 @@
+.event {
+  position: absolute;
+  border-radius: 4px;
+  background-color: #3f51b5;
+  color: white;
+  padding: 10px;
+  cursor: move;
+}
+
+.event:hover {
+  background-color: #5c6bc0;
+}
+
+.event .duration {
+  font-size: 0.8em;
+}
+
+.event[data-duration="4"] {
+  height: 50%;
+}
+
+.event[data-duration="8"] {
+  height: 100%;
+}

@@ -1,0 +1,25 @@
+.resourceContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.resourceItem {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.resourceName {
+  flex: 1;
+  font-size: 16px;
+  color: #333;
+}
+
+.resourceEvents {
+  flex: 3;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}

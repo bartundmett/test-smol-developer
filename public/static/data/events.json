@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "resourceId": "1",
+    "title": "Project Meeting",
+    "start": "2022-04-01T09:00:00.000Z",
+    "end": "2022-04-01T11:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "resourceId": "2",
+    "title": "Design Review",
+    "start": "2022-04-02T13:00:00.000Z",
+    "end": "2022-04-02T15:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "resourceId": "3",
+    "title": "Code Review",
+    "start": "2022-04-03T10:00:00.000Z",
+    "end": "2022-04-03T12:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "resourceId": "1",
+    "title": "Planning Session",
+    "start": "2022-04-04T14:00:00.000Z",
+    "end": "2022-04-04T16:00:00.000Z"
+  }
+]
